@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Do not add any other CSS above these lines */
+
+
+body {
+  font-family: 'Inter', sans-serif;
+}
