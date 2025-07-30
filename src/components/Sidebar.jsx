@@ -29,7 +29,7 @@ const Sidebar = () => {
     <>
       <Toolbar>
         <Typography variant="h6" noWrap sx={{ flexGrow: 1 }}>
-          Spectrave
+          Zaryab
         </Typography>
       </Toolbar>
       <List>

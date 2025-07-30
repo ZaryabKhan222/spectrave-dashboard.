@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-yellow-50 px-4 text-center">
       <h1 className="text-4xl md:text-5xl font-bold text-yellow-600 mb-4">
-        Welcome to Spectrave Solar Dashboard
+        Welcome to Zaryab Solar Dashboard
       </h1>
       <p className="text-lg text-gray-700 mb-6 max-w-xl">
         Monitor solar plant performance, spot anomalies, and generate reports with our interactive dashboard.

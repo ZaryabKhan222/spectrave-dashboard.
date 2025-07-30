@@ -5,7 +5,7 @@ const Footer = () => {
         <p>&copy; {new Date().getFullYear()} Spectrave Dashboard. All rights reserved.</p>
         <div className="flex space-x-4 mt-2 md:mt-0">
           <a
-            href="https://spectrave.com"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-600 transition"
